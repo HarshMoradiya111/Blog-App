@@ -1,0 +1,75 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial technology landscape is undergoing a dramatic transformation driven by artificial intelligence and blockchain technologies. These innovations are creating new opportunities for better financial services, improved security, and faster transactions. In this blog, we explore how these technologies are reshaping the future of finance."
+    },
+    {
+      "id": 2,
+      "title": "Getting Started with React Hooks",
+      "category": [
+        "TECH",
+        "REACT"
+      ],
+      "description": "A comprehensive guide to understanding and using React Hooks in your applications",
+      "date": "2026-01-10T14:30:22.456Z",
+      "coverImage": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+      "content": "React Hooks have revolutionized the way we write React components. They allow you to use state and other React features without writing a class. This guide covers the fundamental hooks like useState, useEffect, and useContext, and shows you how to build custom hooks for your specific needs."
+    },
+    {
+      "id": 3,
+      "title": "The Rise of Artificial Intelligence",
+      "category": [
+        "AI",
+        "TECH"
+      ],
+      "description": "Understanding the impact of AI on modern industries and society",
+      "date": "2026-01-09T11:45:30.789Z",
+      "coverImage": "https://images.pexels.com/photos/8566632/pexels-photo-8566632.jpeg",
+      "content": "Artificial intelligence is no longer a futuristic concept - it's here and transforming industries across the board. From healthcare to finance, education to transportation, AI is creating new opportunities and challenges. This article examines the current state of AI technology and its implications for the future."
+    },
+    {
+      "id": 4,
+      "title": "Web Performance Optimization Tips",
+      "category": [
+        "TECH",
+        "WEB"
+      ],
+      "description": "Best practices for improving your website's speed and performance",
+      "date": "2026-01-08T16:20:15.234Z",
+      "coverImage": "https://images.pexels.com/photos/3888151/pexels-photo-3888151.jpeg",
+      "content": "Website performance is crucial for user experience and SEO. Slow websites lose visitors and conversions. In this comprehensive guide, we cover image optimization, code splitting, lazy loading, caching strategies, and other techniques to significantly improve your website's performance."
+    },
+    {
+      "id": 5,
+      "title": "Cloud Computing: Benefits and Challenges",
+      "category": [
+        "CLOUD",
+        "TECH"
+      ],
+      "description": "Exploring the advantages and potential drawbacks of cloud computing solutions",
+      "date": "2026-01-07T10:15:45.678Z",
+      "coverImage": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg",
+      "content": "Cloud computing has become essential for modern businesses. It offers scalability, cost-efficiency, and flexibility. However, it also comes with challenges like security concerns and vendor lock-in. This article provides a balanced view of cloud computing's benefits and challenges to help you make informed decisions."
+    },
+    {
+      "title": "Future of Developer ",
+      "description": "Future of developer",
+      "category": [
+        "TECH"
+      ],
+      "date": "2026-01-22T05:34:39.414Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "Future of developer",
+      "id": 6
+    }
+  ]
+}
